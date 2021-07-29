@@ -1,4 +1,16 @@
+.section {
+  background: #264653;
+}
+.myColor {
+  background: #e76f51;
+}
+.clients-say {
+  color: #e76f51;
+}
 .img-3 {
   width: 114px;
   height: 114px;
+}
+.fa-google-play {
+  color: #1cac53e0;
 }
